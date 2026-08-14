@@ -1,0 +1,31 @@
+[{
+    "DownloadLinkUpdate":  "https://github.com/nightraidwiki/dalamud-plugins/releases/download/v1.0.6.18/Replica.zip",
+    "AssemblyVersion":  "1.0.6.18",
+    "DownloadLinkInstall":  "https://github.com/nightraidwiki/dalamud-plugins/releases/download/v1.0.6.18/Replica.zip",
+    "AcceptsFeedback":  true,
+    "Author":  "Amadeus",
+    "TestingDalamudApiLevel":  15,
+    "Name":  "Replica",
+    "RepoUrl":  "https://github.com/nightraidwiki/Replica",
+    "DownloadCount":  0,
+    "TestingAssemblyVersion":  "1.0.6.18",
+    "IconUrl":  "https://raw.githubusercontent.com/nightraidwiki/dalamud-plugins/main/images/icon.png",
+    "DownloadLinkTesting":  "https://github.com/nightraidwiki/dalamud-plugins/releases/download/v1.0.6.18/Replica.zip",
+    "LastUpdate":  1786730661,
+    "Description":  "Draws boss mechanics on the arena floor.",
+    "InternalName":  "Replica",
+    "IsTestingExclusive":  false,
+    "Punchline":  "Draw your mechanics on the floor.",
+    "ApplicableVersion":  "any",
+    "CategoryTags":  [
+                         "utility",
+                         "combat"
+                     ],
+    "Tags":  [
+                 "triggers",
+                 "vfx",
+                 "draw",
+                 "raid"
+             ],
+    "DalamudApiLevel":  15
+}]
