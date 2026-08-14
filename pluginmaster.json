@@ -1,4 +1,4 @@
-{
+[{
     "CategoryTags":  [
                          "utility",
                          "combat"
@@ -27,4 +27,4 @@
     "DownloadLinkTesting":  "https://github.com/nightraidwiki/dalamud-plugins/releases/download/v1.0.6.18/Replica.zip",
     "AcceptsFeedback":  true,
     "Punchline":  "Draw your mechanics on the floor."
-}
+}]
