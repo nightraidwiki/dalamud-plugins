@@ -1,31 +1,27 @@
 [{
-    "DownloadLinkUpdate":  "https://github.com/nightraidwiki/dalamud-plugins/releases/download/v1.0.6.22/Replica.zip",
-    "AssemblyVersion":  "1.0.6.22",
-    "DownloadLinkInstall":  "https://github.com/nightraidwiki/dalamud-plugins/releases/download/v1.0.6.22/Replica.zip",
-    "AcceptsFeedback":  true,
     "Author":  "Amadeus",
-    "TestingDalamudApiLevel":  15,
     "Name":  "Replica",
-    "RepoUrl":  "",
-    "DownloadCount":  0,
-    "TestingAssemblyVersion":  "1.0.6.22",
-    "IconUrl":  "https://raw.githubusercontent.com/nightraidwiki/dalamud-plugins/main/images/icon.png",
-    "DownloadLinkTesting":  "https://github.com/nightraidwiki/dalamud-plugins/releases/download/v1.0.6.22/Replica.zip",
-    "LastUpdate":  1786783604,
-    "Description":  "Replicate few things",
     "InternalName":  "Replica",
-    "IsTestingExclusive":  false,
+    "AssemblyVersion":  "1.0.6.22",
+    "Description":  "Replicate few things",
     "Punchline":  "Replicate few things",
+    "LastUpdate":  1786787563,
+    "Changelog":  "Enuo Ex Modules added\nAdded BossMod Mirror 3D In-Game",
     "ApplicableVersion":  "any",
-    "CategoryTags":  [
-                         "utility",
-                         "combat"
-                     ],
+    "RepoUrl":  "",
     "Tags":  [
                  "triggers",
                  "vfx",
                  "draw",
                  "raid"
              ],
-    "DalamudApiLevel":  15
+    "CategoryTags":  [
+                         "utility",
+                         "combat"
+                     ],
+    "DalamudApiLevel":  15,
+    "IconUrl":  "https://raw.githubusercontent.com/nightraidwiki/dalamud-plugins/main/images/icon.png",
+    "DownloadLinkInstall":  "https://github.com/nightraidwiki/dalamud-plugins/releases/download/v1.0.6.22/Replica.zip",
+    "DownloadLinkUpdate":  "https://github.com/nightraidwiki/dalamud-plugins/releases/download/v1.0.6.22/Replica.zip",
+    "DownloadLinkTesting":  "https://github.com/nightraidwiki/dalamud-plugins/releases/download/v1.0.6.22/Replica.zip"
 }]
