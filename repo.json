@@ -2,10 +2,10 @@
     "Author":  "Amadeus",
     "Name":  "Replica",
     "InternalName":  "Replica",
-    "AssemblyVersion":  "1.0.6.39",
+    "AssemblyVersion":  "1.0.6.40",
     "Description":  "Replicate few things",
     "Punchline":  "Replicate few things",
-    "LastUpdate":  1787006707,
+    "LastUpdate":  1787008087,
     "Changelog":  "Enuo Ex Modules added\nAdded BossMod Mirror 3D In-Game\nHacks\nParty Finder",
     "ApplicableVersion":  "any",
     "Tags":  [
@@ -21,8 +21,8 @@
     "DalamudApiLevel":  15,
     "IconUrl":  "https://raw.githubusercontent.com/nightraidwiki/dalamud-plugins/main/images/icon.png",
     "RepoUrl":  "https://github.com/nightraidwiki/dalamud-plugins",
-    "DownloadLinkInstall":  "https://github.com/nightraidwiki/dalamud-plugins/releases/download/v1.0.6.39/Replica.zip",
-    "DownloadLinkUpdate":  "https://github.com/nightraidwiki/dalamud-plugins/releases/download/v1.0.6.39/Replica.zip",
-    "DownloadLinkTesting":  "https://github.com/nightraidwiki/dalamud-plugins/releases/download/v1.0.6.39/Replica.zip",
+    "DownloadLinkInstall":  "https://github.com/nightraidwiki/dalamud-plugins/releases/download/v1.0.6.40/Replica.zip",
+    "DownloadLinkUpdate":  "https://github.com/nightraidwiki/dalamud-plugins/releases/download/v1.0.6.40/Replica.zip",
+    "DownloadLinkTesting":  "https://github.com/nightraidwiki/dalamud-plugins/releases/download/v1.0.6.40/Replica.zip",
     "is_closed_source":  true
 }]
