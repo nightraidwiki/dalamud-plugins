@@ -2,7 +2,7 @@
     "Author":  "Amadeus",
     "Name":  "Replica",
     "InternalName":  "Replica",
-    "AssemblyVersion":  "1.0.6.49",
+    "AssemblyVersion":  "1.0.6.51",
     "Description":  "Replicate few things",
     "ApplicableVersion":  "any",
     "Tags":  [
@@ -22,7 +22,7 @@
     "LoadPriority":  0,
     "Punchline":  "Replicate few things",
     "AcceptsFeedback":  true,
-    "LastUpdate":  1787157475,
+    "LastUpdate":  1787161545,
     "is_closed_source":  true,
     "RepoUrl":  "https://github.com/nightraidwiki/dalamud-plugins",
     "IconUrl":  "https://raw.githubusercontent.com/nightraidwiki/dalamud-plugins/main/images/icon.png"
