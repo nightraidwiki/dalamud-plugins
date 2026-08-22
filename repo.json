@@ -5,7 +5,7 @@
     "AssemblyVersion":  "1.0.6.54",
     "Description":  "Replicate few things",
     "Punchline":  "Replicate few things",
-    "LastUpdate":  1787426053,
+    "LastUpdate":  1787426141,
     "Changelog":  "fix discord auth for party finder",
     "ApplicableVersion":  "any",
     "Tags":  [
