@@ -2,8 +2,8 @@
     "Author":  "Amadeus",
     "Name":  "Replica",
     "InternalName":  "Replica",
-    "AssemblyVersion":  "1.0.6.70",
-    "Description":  "Replicate few things",
+    "AssemblyVersion":  "1.0.6.80",
+    "Description":  "A dedicated Party Finder tailored for the plugin-enabled community, featuring real-time 3D BossMod mirroring, advanced mechanic drawing and solving, and essential helper tools.",
     "ApplicableVersion":  "any",
     "Tags":  [
                  "triggers",
@@ -20,9 +20,9 @@
     "LoadSync":  false,
     "CanUnloadAsync":  false,
     "LoadPriority":  0,
-    "Punchline":  "Replicate few things",
+    "Punchline":  "A dedicated Party Finder for plugin users, featuring 3D BossMod mirroring and mechanic solving.",
     "AcceptsFeedback":  true,
-    "LastUpdate":  1787433377,
+    "LastUpdate":  1787500071,
     "is_closed_source":  true,
     "RepoUrl":  "https://github.com/nightraidwiki/dalamud-plugins",
     "IconUrl":  "https://raw.githubusercontent.com/nightraidwiki/dalamud-plugins/main/images/icon.png"
