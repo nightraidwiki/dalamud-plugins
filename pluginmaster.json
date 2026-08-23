@@ -2,11 +2,11 @@
     "Author":  "Amadeus",
     "Name":  "Replica",
     "InternalName":  "Replica",
-    "AssemblyVersion":  "1.0.6.70",
-    "Description":  "Replicate few things",
-    "Punchline":  "Replicate few things",
-    "LastUpdate":  1787433377,
-    "Changelog":  "fix discord auth for party finder",
+    "AssemblyVersion":  "1.0.6.80",
+    "Description":  "A dedicated Party Finder tailored for the plugin-enabled community, featuring real-time 3D BossMod mirroring, advanced mechanic drawing and solving, and essential helper tools.",
+    "Punchline":  "A dedicated Party Finder for plugin users, featuring 3D BossMod mirroring and mechanic solving.",
+    "LastUpdate":  1787500071,
+    "Changelog":  "release of the public version",
     "ApplicableVersion":  "any",
     "Tags":  [
                  "triggers",
@@ -21,8 +21,8 @@
     "DalamudApiLevel":  15,
     "IconUrl":  "https://raw.githubusercontent.com/nightraidwiki/dalamud-plugins/main/images/icon.png",
     "RepoUrl":  "https://github.com/nightraidwiki/dalamud-plugins",
-    "DownloadLinkInstall":  "https://github.com/nightraidwiki/dalamud-plugins/releases/download/v1.0.6.70/Replica.zip",
-    "DownloadLinkUpdate":  "https://github.com/nightraidwiki/dalamud-plugins/releases/download/v1.0.6.70/Replica.zip",
-    "DownloadLinkTesting":  "https://github.com/nightraidwiki/dalamud-plugins/releases/download/v1.0.6.70/Replica.zip",
+    "DownloadLinkInstall":  "https://github.com/nightraidwiki/dalamud-plugins/releases/download/v1.0.6.80/Replica.zip",
+    "DownloadLinkUpdate":  "https://github.com/nightraidwiki/dalamud-plugins/releases/download/v1.0.6.80/Replica.zip",
+    "DownloadLinkTesting":  "https://github.com/nightraidwiki/dalamud-plugins/releases/download/v1.0.6.80/Replica.zip",
     "is_closed_source":  true
 }]
